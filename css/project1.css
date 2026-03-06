@@ -205,7 +205,7 @@ header .container nav ul li a:active {
 
 /* Start Landing */
 .landing {
-  background-image: url(imgs/space-wallpaper.jpg);
+  background-image: url(../../imgs/space-wallpaper.jpg);
   height: 100vh;
   background-size: cover;
   position: relative;
@@ -352,7 +352,7 @@ header .container nav ul li a:active {
   display: flex;
   align-items: center;
   position: relative;
-  background-image: url(imgs/Design-wallpaper.jpg);
+  background-image: url(../../imgs/Design-wallpaper.jpg);
   background-size: cover;
   height: 500px;
   margin-bottom: 100px;
@@ -465,7 +465,7 @@ header .container nav ul li a:active {
   object-fit: cover;
 }
 
-.portfolio .imgs {
+.portfolio .../../imgs {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   padding-left: 200px;
@@ -484,7 +484,7 @@ header .container nav ul li a:active {
     margin-bottom: 10px;
   }
 
-  .portfolio .imgs {
+  .portfolio .../../imgs {
     display: grid;
     grid-template-columns: 1fr;
     padding-left: 0;
@@ -599,7 +599,7 @@ header .container nav ul li a:active {
 /* Start Statistics */
 .statistics {
   position: relative;
-  background-image: url(imgs/staticts-background.jpg);
+  background-image: url(../../imgs/staticts-background.jpg);
   background-size: cover;
   background-position: center;
   padding-top: 100px;
@@ -821,7 +821,7 @@ header .container nav ul li a:active {
 .quote {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url(imgs/Quote-wallpaper.jpg);
+  background-image: url(../../imgs/Quote-wallpaper.jpg);
   background-size: cover;
   background-position: center;
   position: relative;
@@ -976,7 +976,7 @@ header .container nav ul li a:active {
 .subscribe {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url("imgs/space-2.jpg");
+  background-image: url("../../imgs/space-2.jpg");
   background-size: cover;
   position: relative;
   color: white;
@@ -1153,7 +1153,7 @@ header .container nav ul li a:active {
   padding-top: 100px;
   padding-bottom: 100px;
   text-align: center;
-  background-image: url(imgs/space-2.jpg);
+  background-image: url(../../imgs/space-2.jpg);
   background-size: cover;
   background-position: top;
   color: white;
